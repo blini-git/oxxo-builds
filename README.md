@@ -1,0 +1,1 @@
+https://github.com/blini-git/oxxo-builds/releases/latest/download/oxxo.apk
